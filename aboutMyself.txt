@@ -1,0 +1,15 @@
+Title:Mr.
+Full Name:Mohammed Ryan
+USN:1GC24CS063
+Semester:Third
+Section:A
+Branch: Computer Science
+Year of Admission: 2024
+College Name: GCE
+SSLC : Shanthiniketan Public School
+PU : Shanthiniketan PU College
+UG Degree : 2nd year BE CSE branch
+
+
+
+
